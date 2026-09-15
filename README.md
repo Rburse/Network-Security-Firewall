@@ -1,4 +1,4 @@
-# CYB 220 — Network Security
+# Network Security
 
 ![GNS3](https://img.shields.io/badge/GNS3-network%20emulation-2E8B57)
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-3745%20router-1BA0D7)
@@ -93,5 +93,4 @@ git push
 
 ---
 
-> Academic work for SNHU CYB 220. Kept private in accordance with the university's
-> academic integrity policy on sharing coursework.
+
